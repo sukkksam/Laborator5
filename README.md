@@ -1,2 +1,1 @@
-# Laborator5
-лрррлрпоаона
+# Laboratorа
